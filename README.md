@@ -94,6 +94,13 @@ Enter your choice: 2
 
 Faculty List:
 ID: 101 | Name: Ravi | Dept: CSE | Subject: DataStructures
+<img width="724" height="771" alt="Screenshot 2026-04-03 141739" src="https://github.com/user-attachments/assets/ff378c71-83b1-42a3-ba89-d8a500b31a72" />
+<img width="778" height="694" alt="Screenshot 2026-04-03 141801" src="https://github.com/user-attachments/assets/8422b231-177e-4314-8eaf-12a6790a569b" />
+<img width="779" height="698" alt="Screenshot 2026-04-03 141830" src="https://github.com/user-attachments/assets/b93d884a-9771-4364-b527-e38ee970fe87" />
+<img width="707" height="766" alt="Screenshot 2026-04-03 141929" src="https://github.com/user-attachments/assets/90dbc205-d22b-4002-91c5-d22c117c8302" />
+<img width="737" height="772" alt="Screenshot 2026-04-03 141945" src="https://github.com/user-attachments/assets/f4846a75-b1eb-4439-bfb0-0a3bb83887ab" />
+<img width="872" height="933" alt="Screenshot 2026-04-03 142017" src="https://github.com/user-attachments/assets/e7896a09-1ecd-443a-9a55-f92f99da6e24" />
+
 📌 9. Conclusion
 
 The University Management System using linked list:
