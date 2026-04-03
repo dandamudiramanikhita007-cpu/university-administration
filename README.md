@@ -28,6 +28,9 @@ University administration systems
 College management software
 HR systems for employee record management
 Faculty database management
+
+
+
 📌 4. Data Structure Used
 🔹 Linked List
 
@@ -37,6 +40,9 @@ A singly linked list is used to store faculty records.
 Dynamic memory allocation (no fixed size)
 Efficient insertion and deletion
 Better than arrays for frequent updates
+
+
+
 📌 5. System Design
 🔸 Structure Definition:
 struct Faculty {
@@ -55,6 +61,9 @@ Add Faculty
 Display Faculty
 Update Faculty
 Delete Faculty
+
+
+
 📌 6. Algorithm
 🔹 Add Faculty
 Create a new node using malloc
@@ -73,6 +82,7 @@ Input faculty ID
 Search for node
 Adjust links (previous → next)
 Free memory
+
 📌 7. Implementation
 Language: C
 Concepts Used:
@@ -81,6 +91,9 @@ Pointers
 Dynamic Memory Allocation (malloc, free)
 Functions (modular programming)
 Menu-driven program
+
+
+
 📌 8. Demo Output
 --- University Management System ---
 1. Add Faculty
