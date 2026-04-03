@@ -1,8 +1,16 @@
 # university-administration
 🎓 University Management System (Faculty Management)
+
+
 📌 1. Project Title
 
 University Management System using Linked List in C
+
+
+team members
+
+1. nikitha
+2. trigun
 
 📌 2. Problem Statement
 
